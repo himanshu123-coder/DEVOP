@@ -42,7 +42,7 @@ export default function Page() {
         </p>
 
         {/* Gradient Animated Text */}
-        <div className="text-xl font-bold bg-gradient-to-r from-red-600 via-orange-500 to-yellow-500 text-transparent bg-clip-text animate-gradient">
+        <div className="text-xl font-bold bg-linear-to-r from-red-600 via-orange-500 to-yellow-500 text-transparent bg-clip-text animate-gradient">
           "Bhoot Pishach Nikat Nahi Aave,
           Mahaveer Jab Naam Sunave"
         </div>
@@ -52,7 +52,7 @@ export default function Page() {
         </p>
 
         <div className="mt-6 text-2xl font-semibold text-orange-900 animate-bounce">
-          🔥 Sankat Mochan Hanuman ki Jai 🔥
+          🔥 Sankat Mochan Hanuman ki Jay jay🔥
         </div>
 
       </div>
